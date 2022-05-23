@@ -1,7 +1,7 @@
 # **Insurance Customer Churn Prediction**
 
 * Written by Yohanes Setiawan
-* This is my final project from IBM Machine Learning: Classification
+* This is my final project from Coursera's IBM Machine Learning: Classification
 * For further reading of the code, please open the `.ipynb` file
 
 # **Business Understanding**
